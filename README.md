@@ -3,4 +3,4 @@
 enigma2
 =======
 
-OpenViX Enigma2 
+Openpli Enigma2 test 
