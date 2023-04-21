@@ -8,7 +8,7 @@ install_PYTHON = \
 	ServiceOrbitalPosition.py CryptoInfo.py TextCase.py \
 	ValueBitTest.py TunerInfo.py ConfigEntryTest.py ClientsStreaming.py TemplatedMultiContent.py ProgressToText.py \
 	Combine.py SensorToText.py ValueToPixmap.py PliExtraInfo.py genre.py TransponderInfo.py \
-	RotorPosition.py VfdDisplay.py AnalogClock.py HddState.py \
-  AnalogClock2.py ChannelNumbers.py ClientsStreaming.py ConverterRotator.py \
-  ConverterRotator.py CpuUsage.py LayoutInfo.py MovieReference.py \
-  ServiceName2.py VAudioInfo.py VNetSpeedInfo.py YWeather.py
+	RotorPosition.py VfdDisplay.py AnalogClock.py \
+        AnalogClock2.py ChannelNumbers.py ClientsStreaming.py ConverterRotator.py \
+        ConverterRotator.py CpuUsage.py LayoutInfo.py MovieReference.py \
+        ServiceName2.py VAudioInfo.py VNetSpeedInfo.py YWeather.py
