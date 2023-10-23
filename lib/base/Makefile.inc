@@ -23,8 +23,7 @@ base_libenigma_base_a_SOURCES = \
 	base/smartptr.cpp \
 	base/thread.cpp \
 	base/httpsstream.cpp \
-	base/httpstream.cpp \
-	base/wrappers.cpp
+	base/httpstream.cpp
 
 EXTRA_DIST += \
 	base/eenv.cpp.in
